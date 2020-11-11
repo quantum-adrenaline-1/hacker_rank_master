@@ -1,0 +1,1 @@
+This folder contains all the challenges on HackerRank I solve for Java

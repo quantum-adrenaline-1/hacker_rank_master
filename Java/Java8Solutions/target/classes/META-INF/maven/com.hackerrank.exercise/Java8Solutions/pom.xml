@@ -1,8 +1,0 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.hackerrank.exercise</groupId>
-  <artifactId>Java8Solutions</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>HackerRankJava8</name>
-  <description>This application has all the problems listed that I solve using Java 8 along with the solutions</description>
-</project>

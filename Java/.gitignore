@@ -1,1 +1,6 @@
-/.metadata/
+.metadata/
+/Java8Solutions/*.class
+/Java8Solutions/target
+/Java8Solutions/*.jar
+./Java8Solutions/.settings
+/Java8Solutions/.classpath
